@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivian Cao 👩‍💻</h1>
-<p align="center">An aspiring programmer wanting to change careers to follow her passion into the tech industry, looking to employ her highly developed collaboration and communication skills to contribute to the future of tech</p>
+<p align="center">A software engineer wanting to change careers to follow her passion into the tech industry, looking to employ her highly developed collaboration and communication skills to contribute to the future of tech</p>
 
 
 <h3 align="center">Languages and Tools I am currently learning 🌱:</h3>
